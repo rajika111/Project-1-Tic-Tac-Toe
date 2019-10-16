@@ -1,0 +1,77 @@
+ body{
+    background:gray;
+    background: url("/Users/RayG/Desktop/sei/project-1/Expanded_metal.jpg")repeat;
+    color:white;
+    font-size: 18px;
+    text-align: center;
+}
+#table {
+    width: 450px;
+    margin: 55px auto;
+    background: rgba(63, 59, 59, 0.877);
+    overflow: auto;
+    padding-bottom: 40px;
+    border-radius: 10px; 
+}
+
+h1{
+    text-align: center;
+    color:white
+}
+
+.massage {
+    color:white;
+    background:red;
+    text-align: center;
+    font-size: 24px;
+     padding-left: 50px;
+     border: 2px;
+
+}
+.clear{
+    clear: both;
+}
+#playField li{
+height: 100px;
+width: 100px;
+font-size: 75px;
+background: rgb(206, 65, 65);
+color: wheat;
+margin: 17px;
+text-align: center;
+border-radius: 8px;
+list-style: none;
+float: left;
+}
+
+#playField li:hover, #Playagain:hover {
+   cursor: pointer;
+   
+background-color: rgb(15, 160, 228);
+
+}
+
+#playAgain{
+ color:white;   
+ background: blue;
+ width: 100%;   
+ padding: 11px;
+} 
+
+.x{
+    color: blue !important
+}
+
+.o{
+    color: white !important
+}
+
+footer{
+text-align: center;
+padding: block;
+padding-top: 26px
+}
+
+.move{
+    font-size: 27px;
+}

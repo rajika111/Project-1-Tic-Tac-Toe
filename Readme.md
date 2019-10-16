@@ -11,7 +11,7 @@
 5.Google chrome Devoloper tool.
 
 ////---User Story---//////////
-/////////////////////////////
+
 1.As a user, I should be able to start a new tic tac toe game.
 
 2.As a user, I should be able to click on a square to add X first and then O, and so on.
